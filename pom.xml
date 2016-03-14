@@ -28,18 +28,6 @@
 		</dependency>
 		
 		<dependency>
-		    <groupId>org.glassfish.jersey.connectors</groupId>
-		    <artifactId>jersey-apache-connector</artifactId>
-		   <version>${jersey.version}</version>
-		</dependency>
-		
-		
-		
-		
-		
-		
-		
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
