@@ -1,0 +1,1 @@
+This quick example shows an issue after upgrading to Jersey 2.22.2: Injection via @Context no longer works on sub-resources. This is demonstrated in the Junit test in the master branch. Switch to the `JERSEY_2.22.1` branch and you can see that the exact same test works with Jersery 2.22.1.
